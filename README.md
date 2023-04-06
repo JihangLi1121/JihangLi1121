@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jihang Li 
 - 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Wedsite development and Java script
+- 🌱 I’m currently learning Wedsite development and Javascript
 - 💞️ I’m looking to collaborate on website designs and data collection
 - 📫 How to reach me lijihang21@gmail,com
 - 🔭 I’m currently working on website development and web applications
