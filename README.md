@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @JihangLi1121
+- 👋 Hi, I’m Jihang Li 
 - 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Wedsite development
+- 🌱 I’m currently learning Wedsite development and Java script
 - 💞️ I’m looking to collaborate on website designs and data collection
 - 📫 How to reach me lijihang21@gmail,com
+- 🔭 I’m currently working on website development and web applications
+- 🤔 I’m looking for help with website development and operating system related questions
+- 💬 Ask me about Python and Java questions
+- 😄 Pronouns: He/Him
 
 <!---
 JihangLi1121/JihangLi1121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
