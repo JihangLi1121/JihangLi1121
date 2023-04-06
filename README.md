@@ -7,6 +7,7 @@
 - 🤔 I’m looking for help with website development and operating system related questions
 - 💬 Ask me about Python and Java questions
 - 😄 Pronouns: He/Him
+- ✨ Fun fact: I’m a Monster Hunter enthusiast
 
 <!---
 JihangLi1121/JihangLi1121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
