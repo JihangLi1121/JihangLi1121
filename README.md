@@ -13,7 +13,7 @@ be honest about the ones you got wrong.
 ---
 
 ## Currently
-
+| Project | What |
 | :-- | :-- |
 | 🧫 **CellUniverse** | C++ Monte Carlo + PCA algorithms for automated 3D cell-lineage reconstruction. MCS Keystone research under Dr. Wayne Hayes. Manuscript in progress. |
 | ✉️ **LaunchMail** | AI sales-outreach platform at LaunchPath — Spring Boot, React/TypeScript, PostgreSQL, RAG on pgvector, autonomous LLM agents. |
