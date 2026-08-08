@@ -65,16 +65,29 @@ be honest about the ones you got wrong.
 
 **UC Irvine — M.S. Computer Science**
 
-| Course | Term | Keywords |
-| :-- | :-- | :-- |
-| CS 271P — Introduction to Artificial Intelligence | Fall 2025 | Search, reinforcement learning, PPO |
-| _add your others here_ | | |
+_Machine learning & vision_
 
-**UC Santa Cruz — B.S. Computer Science**
-
-| Course | Term | Keywords |
+| Course | Term | Focus |
 | :-- | :-- | :-- |
-| _add your others here_ | | |
+| COMPSCI 274P — Neural Networks & Deep Learning | Spring 2026 | Architectures, training dynamics, backpropagation |
+| COMPSCI 273P — Machine Learning & Data Mining | Winter 2026 | Supervised methods, feature engineering, evaluation |
+| COMPSCI 271P — Artificial Intelligence | Fall 2025 | Search, reinforcement learning — where the Doom PPO agent came from |
+
+_Systems & algorithms_
+
+| Course | Term | Focus |
+| :-- | :-- | :-- |
+| COMPSCI 231P — Parallel & Distributed Computing | Spring 2026 | Concurrency, parallel decomposition, distributed execution |
+| COMPSCI 260P — Algorithms | Fall 2025 | Design and analysis, complexity |
+| COMPSCI 261P — Data Structures | Winter 2026 | Implementation and performance trade-offs |
+| COMPSCI 253P — Advanced Programming & Problem Solving | Fall 2025 | Applied programming, problem decomposition |
+
+_Research_
+
+| Course | Term | Focus |
+| :-- | :-- | :-- |
+| COMPSCI 295P — Keystone Project | Winter 2026 | CellUniverse — 3D cell-lineage reconstruction |
+| COMPSCI 297P — Capstone Design | Spring 2026 | CellUniverse, continued |
 
 </details>
 
